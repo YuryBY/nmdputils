@@ -6,16 +6,6 @@ public class Runner {
     //    static String inputDirectory = "e:\\cur\\nmdp\\WMDA_EXAMPLES2\\SubmitPartnerBMDWDonorSupplierStatus.xml";
 //    static String inputDirectory = "e:\\cur\\nmdp\\WMDA_EXAMPLES2";
 
-    public static void main(String[] args) throws Exception {
-        SpringSchedulerTester.activity();
-//        if (args.length > 0) {
-//            Reader.read(args[0]);
-//        } else {
-//            throw new IllegalArgumentException("There is no path to files provided");
-//        }
-//        new Producer().run();
-    }
-
     static class Producer implements Runnable {
         @Override
         public void run() {
