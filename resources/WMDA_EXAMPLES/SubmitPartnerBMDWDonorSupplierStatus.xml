@@ -1,0 +1,96 @@
+"<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns7:envelope xmlns:ns6="http://nmdp.org/esb/domain/v03" xmlns:ns5="http://nmdp.org/esb/domain/v05" xmlns:ns7="http://nmdp.org/esb/message/v01" xmlns:ns2="http://nmdp.org/esb/domain/v01" xmlns:ns4="http://nmdp.org/esb/domain/v04" xmlns:ns3="http://nmdp.org/esb/domain/v02">
+    <header>
+        <businessActivityId>923876dccfd340379e7cfd5845b54c43</businessActivityId>
+        <businessEntityInfo>
+            <className>Donor</className>
+            <enterpriseId>4985fcadcfe4488a857ea713abb53a54</enterpriseId>
+        </businessEntityInfo>
+        <contentType>SubmitPartnerBMDWDonorSupplierStatus</contentType>
+        <created>2019-04-06T08:41:31.871-05:00</created>
+        <origin>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </origin>
+        <sender>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </sender>
+    </header>
+    <content xsi:type="ns9:SubmitPartnerBMDWDonorSupplierStatus" xmlns:ns9="http://nmdp.org/esb/action/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <enterpriseId>4985fcadcfe4488a857ea713abb53a54</enterpriseId>
+        <localRegistryStatusCode>AV</localRegistryStatusCode>
+        <bpEnterpriseId>ee3b80eb48d54f809cf5ed5898579092</bpEnterpriseId>
+        <auditInfo>
+            <createDatetime>2019-04-06T08:41:23.804-05:00</createDatetime>
+            <lastUpdateDatetime>2019-04-06T08:41:23.804-05:00</lastUpdateDatetime>
+            <lastUpdateId>b2blts</lastUpdateId>
+        </auditInfo>
+        <availableDate xsi:nil="true"/>
+    </content>
+</ns7:envelope>
+"
+"<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns7:envelope xmlns:ns6="http://nmdp.org/esb/domain/v03" xmlns:ns5="http://nmdp.org/esb/domain/v05" xmlns:ns7="http://nmdp.org/esb/message/v01" xmlns:ns2="http://nmdp.org/esb/domain/v01" xmlns:ns4="http://nmdp.org/esb/domain/v04" xmlns:ns3="http://nmdp.org/esb/domain/v02">
+    <header>
+        <businessActivityId>826c36006b3441c6a1855605b9459d6b</businessActivityId>
+        <businessEntityInfo>
+            <className>Donor</className>
+            <enterpriseId>4d3fa273bb904e2f8f9a0be6ebebf2cf</enterpriseId>
+        </businessEntityInfo>
+        <contentType>SubmitPartnerBMDWDonorSupplierStatus</contentType>
+        <created>2019-04-06T08:41:31.881-05:00</created>
+        <origin>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </origin>
+        <sender>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </sender>
+    </header>
+    <content xsi:type="ns9:SubmitPartnerBMDWDonorSupplierStatus" xmlns:ns9="http://nmdp.org/esb/action/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <enterpriseId>4d3fa273bb904e2f8f9a0be6ebebf2cf</enterpriseId>
+        <localRegistryStatusCode>AV</localRegistryStatusCode>
+        <bpEnterpriseId>ee3b80eb48d54f809cf5ed5898579092</bpEnterpriseId>
+        <auditInfo>
+            <createDatetime>2019-04-06T08:41:23.800-05:00</createDatetime>
+            <lastUpdateDatetime>2019-04-06T08:41:23.800-05:00</lastUpdateDatetime>
+            <lastUpdateId>b2blts</lastUpdateId>
+        </auditInfo>
+        <availableDate xsi:nil="true"/>
+    </content>
+</ns7:envelope>
+"
+"<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns7:envelope xmlns:ns6="http://nmdp.org/esb/domain/v03" xmlns:ns5="http://nmdp.org/esb/domain/v05" xmlns:ns7="http://nmdp.org/esb/message/v01" xmlns:ns2="http://nmdp.org/esb/domain/v01" xmlns:ns4="http://nmdp.org/esb/domain/v04" xmlns:ns3="http://nmdp.org/esb/domain/v02">
+    <header>
+        <businessActivityId>722ddc99c9b647fe812eb5b0a8ab5a7d</businessActivityId>
+        <businessEntityInfo>
+            <className>Donor</className>
+            <enterpriseId>4dcfbf05600241389ab3f4b67d921ad6</enterpriseId>
+        </businessEntityInfo>
+        <contentType>SubmitPartnerBMDWDonorSupplierStatus</contentType>
+        <created>2019-04-06T08:41:31.937-05:00</created>
+        <origin>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </origin>
+        <sender>
+            <name>NMDP.B2BGateway</name>
+            <instance>0</instance>
+        </sender>
+    </header>
+    <content xsi:type="ns9:SubmitPartnerBMDWDonorSupplierStatus" xmlns:ns9="http://nmdp.org/esb/action/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <enterpriseId>4dcfbf05600241389ab3f4b67d921ad6</enterpriseId>
+        <localRegistryStatusCode>AV</localRegistryStatusCode>
+        <bpEnterpriseId>ee3b80eb48d54f809cf5ed5898579092</bpEnterpriseId>
+        <auditInfo>
+            <createDatetime>2019-04-06T08:41:23.799-05:00</createDatetime>
+            <lastUpdateDatetime>2019-04-06T08:41:23.799-05:00</lastUpdateDatetime>
+            <lastUpdateId>b2blts</lastUpdateId>
+        </auditInfo>
+        <availableDate xsi:nil="true"/>
+    </content>
+</ns7:envelope>
+"
