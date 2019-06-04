@@ -1,3 +1,0 @@
-docker build --tag=nmdputils:v1.0 .
-docker tag nmdputils:v1.0 yuryby/nmdputils
-docker push yuryby/nmdputils
